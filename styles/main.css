@@ -80,7 +80,7 @@ body {
 }
 #top {
   max-width: 1440px;
-  margin-top: 3rem;
+  margin-top: 0rem;
 }
 article .article-meta a {
   color: #ffffff;
